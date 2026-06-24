@@ -4,9 +4,11 @@ Where the ecosystem's HOW-WE-THINK lives. Build-vs-rent doctrine, AI moat thesis
 
 ## status
 
-**Placeholder — name claimed 2026-06-24.** Not yet built.
+**Active — founding principle written 2026-06-24.**
 
-Scope is captured here so agents / future-self don't accidentally re-litigate the naming or duplicate the work.
+- [`principles/0001-first-person.md`](principles/0001-first-person.md) — **whitelabel is about YOU; everyone else is about them.** The thesis of the whole company; crystallized while building whitelabel-language. Read this first.
+
+Doctrine still to fold in: build-vs-rent rules, AI moat thesis, antifragile architecture chapters.
 
 ## related repos
 
