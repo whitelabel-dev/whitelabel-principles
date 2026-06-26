@@ -27,7 +27,8 @@ People with disabilities have been systematically locked out of meaningful, well
 
 ## Related repos
 
-- [whitelabel-accessibility](https://github.com/whitelabel-dev/whitelabel-accessibility) — operational arm
+- [whitelabel-accessibility](https://github.com/whitelabel-dev/whitelabel-accessibility) — operational arm (assistive AI + WCAG audits)
+- [whitelabel-internship](https://github.com/whitelabel-dev/whitelabel-internship) — operational arm (train → work → certify → place program)
 - [whitelabel-charity](https://github.com/whitelabel-dev/whitelabel-charity) — funding arm
 - [whitelabel-robotics](https://github.com/whitelabel-dev/whitelabel-robotics) — humanoid robot integration (not yet claimed)
 - [whitelabel-deep-learning](https://github.com/whitelabel-dev/whitelabel-deep-learning) — CV + STT models
