@@ -19,11 +19,13 @@ People with disabilities have been systematically locked out of meaningful, well
 
 2. **The assist is the worker's tool, not surveillance of them.** AI that watches and reports is the wrong product. AI that the worker controls and benefits from is the right one.
 
-3. **Funding flows through `whitelabel-charity`; work happens in `whitelabel-accessibility` + `whitelabel-robotics` + every surface that touches a worker.**
+3. **Funding flows through `whitelabel-charity`; work happens in `whitelabel-accessibility` + `whitelabel-internship` + `whitelabel-robotics` + every surface that touches a worker.**
 
 4. **Reseller-channel parity.** Agencies that resell whitelabel.dev should be able to hire disabled workers through the platform with the same accessibility scaffolding included by default. This is not an upsell.
 
-5. **Government-funded path is real and the right path.** This is not a "do good on the side" — it's a path to revenue. See [`whitelabel-accessibility/funding/government-pathways.md`](https://github.com/whitelabel-dev/whitelabel-accessibility) for the channel-by-channel plan (VR vendor approval, SBIR, AbilityOne, Section 503, NIDILRR, Medicaid HCBS, Ticket to Work).
+5. **Government-funded path is real and the right path.** This is not a "do good on the side" — it's a path to revenue. Country-specific channels are documented in [`whitelabel-accessibility/funding/`](https://github.com/whitelabel-dev/whitelabel-accessibility) — currently `government-pathways.md` (US) and `philippines-pathways.md` (PH).
+
+6. **Worldwide ambition, country-track expansion.** The platform is country-agnostic; funding + legal + cultural shells are country-specific. Build internationalization plumbing in from day one — multi-currency wage handling, multi-language, country-specific PWD-recognition systems (VR-eligibility in US, PWD ID in PH, equivalents elsewhere). Retrofitting i18n later costs 5-10× more. Current geographic order: US first, **PH next**, then expansion candidates (India, Mexico, Brazil, Indonesia).
 
 ## Related repos
 
